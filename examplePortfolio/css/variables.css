@@ -1,0 +1,12 @@
+:root {
+    --brown: #6D6656;
+    --grey: #53565A;
+    --black: #272727;
+
+    --heading-font:'saudagar';
+}
+
+@font-face {
+    font-family: saudagar;
+    src: url(../assets/Saudagar.ttf);
+}
